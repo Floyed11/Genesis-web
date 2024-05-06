@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CPU性能分析</title>
+<link rel="stylesheet" href="{{url_for('static', filename='input_style.css')}}">
+<script src="{{url_for('static', filename="input_script.js")}}" defer></script>
+</head>
+<body>
+
+<div class="centered-title">CPU性能分析</div>
+
+<div class="container">
+  <label for="projectName" class="input-label">项目名称：</label>
+  <input type="text" id="projectName" class="input-field">
+  
+  <label for="projectObjective" class="input-label">项目目标：</label>
+  <input type="text" id="projectObjective" class="input-field">
+  
+
+  <label for="Test-Sponsor" class="input-label">Test Sponsor：</label>
+  <input type="text" id="Test-Sponsor" class="input-field" list="Test-Sponsor-list">
+  <datalist id="Test-Sponsor-list">
+  </datalist>
+
+  <label for="Cpu-Name" class="input-label">Cpu Name：</label>
+  <input type="text" id="Cpu-Name" class="input-field" list="Cpu-Name-list">
+  <datalist id="Cpu-Name-list">
+</datalist>
+
+
+  <label for="Max-MHz" class="input-label">Max MHz：</label>
+  <input type="text" id="Max-MHz" class="input-field" list="Max-MHz-list">
+  <datalist id="Max-MHz-list">
+  </datalist>
+
+
+  <label for="Nominal" class="input-label">Nominal：</label>
+  <input type="text" id="Nominal" class="input-field" list="Nominal-list">
+  <datalist id="Nominal-list">
+  </datalist>
+
+  <label for="Oderable" class="input-label">Oderable：</label>
+  <input type="text" id="Oderable" class="input-field" list="Oderable-list">
+  <datalist id="Oderable-list">     
+  </datalist>
+
+  <label for="Cache-L1" class="input-label">Cache L1：</label>
+  <input type="text" id="Cache-L1" class="input-field" list="Cache-L1-list">
+  <datalist id="Cache-L1-list">
+  </datalist>
+
+  <label for="Cache-L2" class="input-label">Cache L2：</label>
+  <input type="text" id="Cache-L2" class="input-field" list="Cache-L2-list">
+  <datalist id="Cache-L2-list">           
+  </datalist>
+
+  <label for="Cache-L3" class="input-label">Cache L3：</label>
+  <input type="text" id="Cache-L3" class="input-field" list="Cache-L3-list">
+  <datalist id="Cache-L3-list">        
+  </datalist>
+
+  <label for="Cache-Other" class="input-label">Cache Other：</label>
+  <input type="text" id="Cache-Other" class="input-field" list="Cache-Other-list">
+  <datalist id="Cache-Other-list">
+  </datalist>
+
+  <label for="Memory" class="input-label">Memory：</label>
+  <input type="text" id="Memory" class="input-field" list="Memory-list">
+  <datalist id="Memory-list">
+  </datalist>
+
+  <label for="Storage" class="input-label">Storage：</label>
+  <input type="text" id="Storage" class="input-field" list="Storage-list">
+  <datalist id="Storage-list">
+  </datalist>
+
+  <label for="Hardware-Other" class="input-label">Hardware Other：</label>
+  <input type="text" id="Hardware-Other" class="input-field" list="Hardware-Other-list">
+  <datalist id="Hardware-Other-list">
+  </datalist>
+
+  <label for="OS" class="input-label">OS：</label>
+  <input type="text" id="OS" class="input-field" list="OS-list">
+  <datalist id="OS-list">
+  </datalist>
+
+  <label for="Compiler" class="input-label">Compiler：</label>
+  <input type="text" id="Compiler" class="input-field" list="Compiler-list">
+  <datalist id="Compiler-list">
+  </datalist>
+
+  <label for="Firmware" class="input-label">Firmware：</label>
+  <input type="text" id="Firmware" class="input-field" list="Firmware-list">
+  <datalist id="Firmware-list"> 
+  </datalist>
+
+  <label for="File-System" class="input-label">File System：</label>
+  <input type="text" id="File-System" class="input-field" list="File-System-list">
+  <datalist id="File-System-list">
+  </datalist>
+
+  <label for="System-State" class="input-label">System State：</label>
+  <input type="text" id="System-State" class="input-field" list="System-State-list">
+  <datalist id="System-State-list">
+  </datalist>
+
+  <label for="Base-Pointers" class="input-label">Base Pointers：</label>
+  <input type="text" id="Base-Pointers" class="input-field" list="Base-Pointers-list">
+  <datalist id="Base-Pointers-list">
+  </datalist>
+
+  <label for="Peak-Pointers" class="input-label">Peak Pointers：</label>
+  <input type="text" id="Peak-Pointers" class="input-field" list="Peak-Pointers-list">
+  <datalist id="Peak-Pointers-list"> 
+  </datalist>
+
+  <label for="Software-Other" class="input-label">Software Other：</label>
+  <input type="text" id="Software-Other" class="input-field" list="Software-Other-list">
+  <datalist id="Software-Other-list">
+  </datalist>
+
+  <label for="Power-Management" class="input-label">Power Management：</label>
+  <input type="text" id="Power-Management" class="input-field" list="Power-Management-list">
+  <datalist id="Power-Management-list">
+  </datalist>
+
+  <label for="Paralled" class="input-label">Paralled：</label>
+  <input type="text" id="Paralled" class="input-field" list="Paralled-list">
+  <datalist id="Paralled-list">
+  </datalist>
+
+  <label for="Base-Threads" class="input-label">Base Threads：</label>
+  <input type="text" id="Base-Threads" class="input-field" list="Base-Threads-list">
+  <datalist id="Base-Threads-list"> 
+  </datalist>
+
+  <label for="Enabled-Cores" class="input-label">Enabled Cores：</label>
+  <input type="text" id="Enabled-Cores" class="input-field" list="Enabled-Cores-list">
+  <datalist id="Enabled-Cores-list">
+  </datalist>
+
+
+  <label for="Enabled-Chips" class="input-label">Enabled Chips：</label>
+  <input type="text" id="Enabled-Chips" class="input-field" list="Enabled-Chips-list">
+  <datalist id="Enabled-Chips-list">
+  </datalist>
+
+  <label for="Threads-Core" class="input-label">Threads/Core：</label>
+  <input type="text" id="Threads-Core" class="input-field" list="Threads-Core-list">
+  <datalist id="Threads-Core-list">     
+  </datalist>
+  
+  <button class="input-button" onclick="location.href={{ url_for('trans.trans_in')}}">运行</button>
+</div>
+
+</body>
+</html>

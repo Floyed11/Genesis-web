@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .login{
+            width: 300px;
+            height: 200px;
+            background: #eee;
+            border-radius: 10px;
+            margin:100px auto;
+            display: flex;
+            flex-direction: column;
+        }
+        body{
+            background-image: url({{ url_for('static', filename='logo/back_ground.jpg') }});            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+        }
+        .flexl{
+            flex:1;
+            text-align:center;
+            line-height: 50px;
+        }
+        .login-top{
+            background:#136;
+            color:white;
+        }
+        .login input{
+            font-size:16px ;
+        }
+        .login button{
+            font-size:16px;
+            width:120px;
+        }
+    </style>
+</head>
+<body>
+    <div class="login">
+        <div class="flexl login-top">登录窗口</div>
+        <div class="flexl">用户名：<input type="text" id="username"></div>
+        <div class="flexl">
+            密&nbsp;&nbsp;&nbsp;码：<input type="password" id="password">
+        </div>
+        <div class="flexl"><button id="loginBtn">确&nbsp;&nbsp;&nbsp;定</div>
+
+    </div>
+    <script>
+        document.getElementById('loginBtn').addEventListener('click', function() {
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+            const url = 'http://localhost:5000/auth/login';
+  
+            fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ username: username, password: password })
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log('Success:', data);
+                window.location.href = 'main.html';
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+            });
+        });
+      </script>
+    
+</body>
+</html>

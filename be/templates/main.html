@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename = 'style.css')}}">
+</head>
+
+<body>
+    <div class="container">
+        <div class="picture">
+            
+        </div>
+        <div class="choices">
+            <div class="nav-project">
+                <button type="button" class="btn">
+                    <img src="{{ url_for('static', filename='logo/project.svg') }}" alt="已有项目">
+                    <div>PROJECT</div>
+                </button>
+            </div>
+            <div class="nav-report">
+                <button type="button" class="btn">
+                    <img src="{{ url_for('static', filename="logo/report.svg") }}" alt="项目报告">
+                    <div>REPORT</div>
+                </button>
+            </div>
+        </div>
+        <div class="btn-group" role="group">
+            <button type="button" class="btn btn-secondary" id="user" onclick="location.href='{{ url_for('auth.login') }}'">
+                <img src="{{ url_for('static', filename="logo/user.svg") }}" alt="用户">
+                <div class="tooltip">user</div>
+            </button>
+            <button type="button" class="btn btn-secondary" id="plan">
+                <img src="{{ url_for('static', filename="logo/schedule.svg") }}" alt="计划">
+                <div class="tooltip">plan</div>
+            <button type="button" class="btn btn-secondary" id="help">
+                <img src="{{ url_for('static', filename="logo/help.svg") }}" alt="求助">
+                <div class="tooltip">help</div>
+            </button>
+        </div>
+    </div>
+    <div class="top-box">
+        <button class="create_new" onclick="location.href='{{ url_for('trans.trans_in') }}'">
+            + New Project
+        </button>
+    </div>
+    <div id="user_tooltip" class="tooltip">user</div>
+    <div id="user_tooltip" class="tooltip">plan</div>
+    <div id="user_tooltip" class="tooltip">hlep</div>
+
+    <script src="{{ url_for('static', filename="main_script.js") }}"></script>
+</body>
+
+</html>
