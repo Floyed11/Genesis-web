@@ -1,0 +1,4004 @@
+{
+    "dataset":[
+        {
+            "NAME": "AMD EPYC 7513",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7313P",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "Intel Xeon E-2378G",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7702",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7313P",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220R",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F72",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242R",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7642",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7502",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F52",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F72",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240R",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7302",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F52",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F32",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F52",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7252",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F72",
+            "Enabled_Cores": 2
+        },
+        {
+            "NAME": "Intel Xeon E-2378G",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2388G",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376H",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "AMD Ryzen Threadripper PRO 3955WX",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "AMD EPYC 7H12",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "AMD EPYC 7H12",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380HL",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "AMD EPYC 7282",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380H",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242R",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Silver 4215R",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "AMD EPYC 7352",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "AMD EPYC 7282",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "AMD EPYC 7282",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "AMD EPYC 7452",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "AMD EPYC 7262",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "AMD EPYC 7452",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "AMD EPYC 7452",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Celeron G4900T",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500T",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Celeron G4920",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Core i3-8100T",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Core i3-8350K",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Core i3-8300T",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Pentium Gold G5600",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Celeron G4920",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3204",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Celeron G4900T",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130",
+            "Enabled_Cores": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376HL",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "AMD EPYC 7373X",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376HL",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "AMD EPYC 7543",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "AMD EPYC 7453",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "AMD Ryzen Threadripper PRO 3995WX",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240L",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "AMD EPYC 7H12",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "AMD EPYC 7262",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2226G",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2286G",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Core i3-8300T",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Core i3-8300",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400T",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Celeron G4900T",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon Gold 6244",
+            "Enabled_Cores": 6
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6246",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 5411N",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon E-2378G",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "AMD EPYC 7473X",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376H",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "AMD EPYC 7313",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "AMD EPYC 7313P",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "AMD EPYC 7F32",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon E-2226G",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "AMD EPYC 7702",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6244",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410T",
+            "Enabled_Cores": 8
+        },
+        {
+            "NAME": "Intel Core i3-8300",
+            "Enabled_Cores": 10
+        },
+        {
+            "NAME": "Intel Core i3-8100T",
+            "Enabled_Cores": 10
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500",
+            "Enabled_Cores": 10
+        },
+        {
+            "NAME": "Intel Celeron G4900",
+            "Enabled_Cores": 10
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8256",
+            "Enabled_Cores": 10
+        },
+        {
+            "NAME": "Intel Core i3-8300",
+            "Enabled_Cores": 10
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Enabled_Cores": 12
+        },
+        {
+            "NAME": "AMD EPYC 7662",
+            "Enabled_Cores": 12
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500",
+            "Enabled_Cores": 12
+        },
+        {
+            "NAME": "Intel Xeon W-2295",
+            "Enabled_Cores": 12
+        },
+        {
+            "NAME": "Intel Core i3-8350K",
+            "Enabled_Cores": 12
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Enabled_Cores": 12
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400T",
+            "Enabled_Cores": 12
+        },
+        {
+            "NAME": "Intel Core i9-9900K",
+            "Enabled_Cores": 12
+        },
+        {
+            "NAME": "Intel Xeon Gold 6132",
+            "Enabled_Cores": 12
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Enabled_Cores": 12
+        },
+        {
+            "NAME": "Intel Xeon E-2278G",
+            "Enabled_Cores": 14
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Enabled_Cores": 14
+        },
+        {
+            "NAME": "Intel Xeon Gold 6138T",
+            "Enabled_Cores": 14
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5120",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6134",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6138",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6426Y",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3408U",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3408U",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352V",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318S",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318S",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320T",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6346",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310T",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6334",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "AMD EPYC 7413",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "AMD EPYC 7413",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "AMD EPYC 7473X",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "AMD EPYC 7773X",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "AMD EPYC 7F72",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "AMD EPYC 7282",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Celeron G4920",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Core i3-8100T",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Pentium Gold G5600",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500T",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Core i3-8350K",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Core i5-9600K",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4109T",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5416S",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5222",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214R",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6250",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6154",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4110",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8268",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6254",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Enabled_Cores": 16
+        },
+        {
+            "NAME": "AMD EPYC 7313P",
+            "Enabled_Cores": 18
+        },
+        {
+            "NAME": "Intel Celeron G4900",
+            "Enabled_Cores": 18
+        },
+        {
+            "NAME": "Intel Core i3-8300T",
+            "Enabled_Cores": 18
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Enabled_Cores": 18
+        },
+        {
+            "NAME": "AMD EPYC 7402",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "AMD Ryzen 9 7950X",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500T",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Silver 4109T",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Silver 4110",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Enabled_Cores": 20
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260M",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3204",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6428N",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6428N",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8458P",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338T",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6314U",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "AMD EPYC 7713P",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Celeron G4900",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114T",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4108",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4108",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140M",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6210U",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 5122",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8160",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "AMD EPYC 9754",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "AMD EPYC 7413",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240R",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8268",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6254",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Enabled_Cores": 24
+        },
+        {
+            "NAME": "AMD EPYC 7F32",
+            "Enabled_Cores": 28
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400",
+            "Enabled_Cores": 28
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500",
+            "Enabled_Cores": 28
+        },
+        {
+            "NAME": "Intel Xeon Gold 6244",
+            "Enabled_Cores": 28
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Enabled_Cores": 28
+        },
+        {
+            "NAME": "Intel Core i5-8600T",
+            "Enabled_Cores": 28
+        },
+        {
+            "NAME": "Intel Core i3-8300",
+            "Enabled_Cores": 28
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Enabled_Cores": 28
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418N",
+            "Enabled_Cores": 28
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Enabled_Cores": 28
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Enabled_Cores": 28
+        },
+        {
+            "NAME": "AMD EPYC 7502",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2278G",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2286G",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD EPYC 7502P",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6132",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8153",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6126",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130T",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6128",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6154",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418N",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6414U",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8458P",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5415+",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6328H",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352V",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358P",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318S",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6314U",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6314U",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352S",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318N",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD EPYC 9174F",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD EPYC 9454P",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD EPYC 7313",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD EPYC 9254",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD EPYC 7513",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD EPYC 7373X",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD Ryzen Threadripper PRO 3945WX",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD Ryzen Threadripper PRO 3975WX",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3104",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD EPYC 9654",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438N",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6254",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6246",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6246",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "AMD EPYC 9654",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6442Y",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2224",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6252",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5215",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Enabled_Cores": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4215",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6421N",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4416+",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460Y+",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "AMD EPYC 7F52",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "AMD EPYC 7763",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "UltraSPARC-IV+",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8362",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4215",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Enabled_Cores": 36
+        },
+        {
+            "NAME": "Intel Xeon E-2276G",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6144",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6430",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8354H",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "AMD EPYC 9754",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon E-2356G",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "AMD EPYC 7402",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6132",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6256",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380HL",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240R",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Enabled_Cores": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Enabled_Cores": 44
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Enabled_Cores": 44
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "AMD EPYC 7542",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240M",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6146",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6136",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418N",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418N",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470N",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6442Y",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6430",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6328H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352S",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8362",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6312U",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6312U",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6312U",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8351N",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8351N",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8351N",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320T",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310T",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352Y",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "AMD Ryzen 9 7950X",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "AMD EPYC 7543",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6426Y",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "AMD EPYC 7302",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Pentium Gold G5600",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114T",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon W-2104",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8153",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6126",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360HL",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8353H",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6254",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4108",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6150",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Enabled_Cores": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6238T",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6414U",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 5415+",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338T",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Silver 4112",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8153",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6256",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Enabled_Cores": 52
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276M",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410T",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8462Y+",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5415+",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6442Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438M",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8452Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5420+",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468V",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8452Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8461V",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468H",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380H",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330H",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6328HL",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "AMD EPYC 7F32",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220R",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Core i7-9700K",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5118",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3104",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380H",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8253",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380HL",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6256",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "AMD EPYC 7H12",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460Y+",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4215",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Enabled_Cores": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410T",
+            "Enabled_Cores": 60
+        },
+        {
+            "NAME": "Intel Xeon Gold 6346",
+            "Enabled_Cores": 60
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Enabled_Cores": 60
+        },
+        {
+            "NAME": "Intel Xeon E-2274G",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "AMD EPYC 7302P",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "AMD EPYC 7402P",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6252",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "AMD EPYC 7702",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218B",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5215",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8253",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6244",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5217",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6150",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6150",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5416S",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5420+",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8471N",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6454S",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470N",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438N",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410T",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4416+",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8462Y+",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448Y",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448Y",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5420+",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6442Y",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460Y+",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8461V",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460Y+",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6430",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360H",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358P",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6346",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352Y",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358P",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318N",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320H",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352Y",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352Y",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6334",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "AMD EPYC 9354P",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "AMD EPYC 7473X",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "AMD EPYC 7773X",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "AMD EPYC 7573X",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8160",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5120",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon W-2123",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376HL",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210R",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6234",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6234",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4112",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5118",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8160",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220",
+            "Enabled_Cores": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5115",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "AMD Ryzen 7 5800X",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 6421N",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 5416S",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8461V",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8362",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8362",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376H",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon E-2388G",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon W-2102",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon E3-1275 v6",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Silver 4108",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3106",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3106",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "AMD EPYC 7763",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318H",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220R",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Enabled_Cores": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468V",
+            "Enabled_Cores": 76
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 76
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Enabled_Cores": 76
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352V",
+            "Enabled_Cores": 76
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Enabled_Cores": 76
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Enabled_Cores": 76
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Enabled_Cores": 76
+        },
+        {
+            "NAME": "Intel Xeon Gold 6312U",
+            "Enabled_Cores": 76
+        },
+        {
+            "NAME": "AMD EPYC 9684X",
+            "Enabled_Cores": 76
+        },
+        {
+            "NAME": "AMD EPYC 9684X",
+            "Enabled_Cores": 76
+        },
+        {
+            "NAME": "Intel Xeon Gold 6128",
+            "Enabled_Cores": 76
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Enabled_Cores": 76
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5411N",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6414U",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6454S",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6426Y",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468V",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5120",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon W-2195",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon W-2133",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140M",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320H",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8168",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260M",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Enabled_Cores": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Enabled_Cores": 88
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8471N",
+            "Enabled_Cores": 88
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8471N",
+            "Enabled_Cores": 88
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Enabled_Cores": 88
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Silver 4416+",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 5411N",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6428N",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6454S",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318H",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "AMD EPYC 9754",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6126",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Silver 4112",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Silver 4112",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Silver 4109T",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "AMD EPYC 7773X",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Enabled_Cores": 96
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Enabled_Cores": 104
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Enabled_Cores": 104
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140",
+            "Enabled_Cores": 104
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Enabled_Cores": 104
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3408U",
+            "Enabled_Cores": 104
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438M",
+            "Enabled_Cores": 104
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470N",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6426Y",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8462Y+",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8458P",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358P",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338T",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320T",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Max 9480",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "AMD EPYC 9224",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 5120",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon W-2175",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon W-2155",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6458Q",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Silver 4416+",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240R",
+            "Enabled_Cores": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438N",
+            "Enabled_Cores": 120
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Enabled_Cores": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 5416S",
+            "Enabled_Cores": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 6421N",
+            "Enabled_Cores": 120
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8452Y",
+            "Enabled_Cores": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 6346",
+            "Enabled_Cores": 120
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310T",
+            "Enabled_Cores": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Enabled_Cores": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Enabled_Cores": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Enabled_Cores": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220R",
+            "Enabled_Cores": 120
+        },
+        {
+            "NAME": "AMD EPYC 7352",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "AMD EPYC 7702P",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8256",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352S",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon Gold 6334",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "AMD EPYC 8534P",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "AMD EPYC 8534PN",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "AMD EPYC 9684X",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon E-2378G",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon Gold 5118",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon Gold 5118",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Enabled_Cores": 128
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438M",
+            "Enabled_Cores": 160
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Enabled_Cores": 160
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Enabled_Cores": 192
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Enabled_Cores": 192
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Enabled_Cores": 192
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Enabled_Cores": 192
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376H",
+            "Enabled_Cores": 192
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Enabled_Cores": 224
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438N",
+            "Enabled_Cores": 240
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352S",
+            "Enabled_Cores": 240
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Enabled_Cores": 256
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8354H",
+            "Enabled_Cores": 256
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318N",
+            "Enabled_Cores": 480
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Enabled_Cores": 480
+        }
+    ]
+}

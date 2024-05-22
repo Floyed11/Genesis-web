@@ -1,0 +1,4004 @@
+{
+    "dataset":[
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Base_Threads": 1
+        },
+        {
+            "NAME": "AMD EPYC 7513",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7313P",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "Intel Xeon E-2378G",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7702",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7313P",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220R",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F72",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242R",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7642",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7502",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F52",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F72",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240R",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7302",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F52",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F32",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F52",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7252",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7F72",
+            "Base_Threads": 2
+        },
+        {
+            "NAME": "AMD EPYC 7373X",
+            "Base_Threads": 3
+        },
+        {
+            "NAME": "AMD EPYC 7543",
+            "Base_Threads": 3
+        },
+        {
+            "NAME": "Intel Xeon E-2378G",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2388G",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376H",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "AMD Ryzen Threadripper PRO 3955WX",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "AMD EPYC 7H12",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "AMD EPYC 7H12",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380HL",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "AMD EPYC 7282",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380H",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242R",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Silver 4215R",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "AMD EPYC 7352",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "AMD EPYC 7282",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "AMD EPYC 7282",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "AMD EPYC 7452",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "AMD EPYC 7262",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "AMD EPYC 7452",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "AMD EPYC 7452",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Celeron G4900T",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500T",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Celeron G4920",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Core i3-8100T",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Core i3-8350K",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Core i3-8300T",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Pentium Gold G5600",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Celeron G4920",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3204",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Celeron G4900T",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130",
+            "Base_Threads": 4
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376HL",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376HL",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "AMD EPYC 7453",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "AMD Ryzen Threadripper PRO 3995WX",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240L",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "AMD EPYC 7H12",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "AMD EPYC 7262",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2226G",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2286G",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Core i3-8300T",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Core i3-8300",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400T",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Celeron G4900T",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon Gold 6244",
+            "Base_Threads": 6
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6246",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 5411N",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon E-2378G",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "AMD EPYC 7473X",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376H",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "AMD EPYC 7313",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "AMD EPYC 7313P",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "AMD EPYC 7F32",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon E-2226G",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "AMD EPYC 7702",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Gold 6244",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410T",
+            "Base_Threads": 8
+        },
+        {
+            "NAME": "Intel Core i3-8300",
+            "Base_Threads": 10
+        },
+        {
+            "NAME": "Intel Core i3-8100T",
+            "Base_Threads": 10
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500",
+            "Base_Threads": 10
+        },
+        {
+            "NAME": "Intel Celeron G4900",
+            "Base_Threads": 10
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8256",
+            "Base_Threads": 10
+        },
+        {
+            "NAME": "Intel Core i3-8300",
+            "Base_Threads": 10
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Base_Threads": 12
+        },
+        {
+            "NAME": "AMD EPYC 7662",
+            "Base_Threads": 12
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500",
+            "Base_Threads": 12
+        },
+        {
+            "NAME": "Intel Xeon W-2295",
+            "Base_Threads": 12
+        },
+        {
+            "NAME": "Intel Core i3-8350K",
+            "Base_Threads": 12
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Base_Threads": 12
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400T",
+            "Base_Threads": 12
+        },
+        {
+            "NAME": "Intel Core i9-9900K",
+            "Base_Threads": 12
+        },
+        {
+            "NAME": "Intel Xeon Gold 6132",
+            "Base_Threads": 12
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Base_Threads": 12
+        },
+        {
+            "NAME": "Intel Xeon E-2278G",
+            "Base_Threads": 14
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Base_Threads": 14
+        },
+        {
+            "NAME": "Intel Xeon Gold 6138T",
+            "Base_Threads": 14
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3408U",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3408U",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352V",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318S",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318S",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320T",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6346",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310T",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6334",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "AMD EPYC 7413",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "AMD EPYC 7413",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "AMD EPYC 7473X",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "AMD EPYC 7773X",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "AMD EPYC 7F72",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "AMD EPYC 7282",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Celeron G4920",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Core i3-8100T",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Pentium Gold G5600",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500T",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Core i3-8350K",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Core i5-9600K",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4109T",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5416S",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5222",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214R",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6250",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6154",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4110",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8268",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6254",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Base_Threads": 16
+        },
+        {
+            "NAME": "AMD EPYC 7313P",
+            "Base_Threads": 18
+        },
+        {
+            "NAME": "Intel Celeron G4900",
+            "Base_Threads": 18
+        },
+        {
+            "NAME": "Intel Core i3-8300T",
+            "Base_Threads": 18
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Base_Threads": 18
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500T",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Silver 4109T",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Silver 4110",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Base_Threads": 20
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260M",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3204",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6428N",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6428N",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8458P",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338T",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6314U",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "AMD EPYC 7713P",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Celeron G4900",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114T",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4108",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4108",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140M",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6210U",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 5122",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8160",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "AMD EPYC 9754",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "AMD EPYC 7413",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240R",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8268",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Gold 6254",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Base_Threads": 24
+        },
+        {
+            "NAME": "AMD EPYC 7F32",
+            "Base_Threads": 28
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400",
+            "Base_Threads": 28
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500",
+            "Base_Threads": 28
+        },
+        {
+            "NAME": "Intel Xeon Gold 6244",
+            "Base_Threads": 28
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Base_Threads": 28
+        },
+        {
+            "NAME": "Intel Core i5-8600T",
+            "Base_Threads": 28
+        },
+        {
+            "NAME": "Intel Core i3-8300",
+            "Base_Threads": 28
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Base_Threads": 28
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418N",
+            "Base_Threads": 28
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Base_Threads": 28
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Base_Threads": 28
+        },
+        {
+            "NAME": "Intel Xeon E-2278G",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2286G",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5120",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8153",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6134",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6138",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6426Y",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418N",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6414U",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470N",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8458P",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5415+",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6328H",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352V",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358P",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318S",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6314U",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6314U",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352S",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318N",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD EPYC 9174F",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD EPYC 9454P",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD EPYC 7313",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD EPYC 9254",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD EPYC 7513",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD EPYC 7373X",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD Ryzen Threadripper PRO 3945WX",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD Ryzen Threadripper PRO 3975WX",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3104",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD EPYC 9654",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438N",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6254",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6246",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6246",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "AMD EPYC 9654",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6442Y",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon E-2224",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6252",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 5215",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Base_Threads": 32
+        },
+        {
+            "NAME": "Intel Xeon Silver 4215",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6421N",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4416+",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460Y+",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "AMD EPYC 7F52",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "AMD EPYC 7763",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "UltraSPARC-IV+",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8362",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4215",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Base_Threads": 36
+        },
+        {
+            "NAME": "AMD EPYC 7402",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6144",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "AMD Ryzen 9 7950X",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6430",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8354H",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "AMD EPYC 9754",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon E-2356G",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "AMD EPYC 7402",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6132",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6256",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380HL",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240R",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Base_Threads": 40
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Base_Threads": 44
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Base_Threads": 44
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240M",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6146",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6136",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418N",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418N",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6442Y",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6430",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6328H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352S",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8362",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6312U",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6312U",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6312U",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8351N",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8351N",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8351N",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320T",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310T",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352Y",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "AMD Ryzen 9 7950X",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "AMD EPYC 7543",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6426Y",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "AMD EPYC 7302",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Pentium Gold G5600",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114T",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon W-2104",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8153",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6126",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360HL",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8353H",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6254",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4108",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6150",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Base_Threads": 48
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6238T",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6414U",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 5415+",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338T",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Silver 4112",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8153",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6256",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Base_Threads": 52
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276M",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410T",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8462Y+",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5415+",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6442Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438M",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8452Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5420+",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468V",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8452Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8461V",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468H",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380H",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330H",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6328HL",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "AMD EPYC 7F32",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220R",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Core i7-9700K",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5118",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3104",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380H",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8253",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380HL",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6256",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "AMD EPYC 7H12",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460Y+",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4215",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Base_Threads": 56
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410T",
+            "Base_Threads": 60
+        },
+        {
+            "NAME": "Intel Xeon Gold 6346",
+            "Base_Threads": 60
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Base_Threads": 60
+        },
+        {
+            "NAME": "AMD EPYC 7502",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2274G",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "AMD EPYC 7502P",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "AMD EPYC 7302P",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "AMD EPYC 7402P",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6252",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "AMD EPYC 7702",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218B",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5215",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8253",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6244",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5217",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6132",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6126",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130T",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6128",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6150",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6154",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6150",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5416S",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5420+",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8471N",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6454S",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470N",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438N",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410T",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4416+",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8462Y+",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448Y",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448Y",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5420+",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6442Y",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460Y+",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8461V",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460Y+",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6430",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360H",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358P",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6346",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352Y",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358P",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318N",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320H",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352Y",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352Y",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6334",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "AMD EPYC 9354P",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "AMD EPYC 7473X",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "AMD EPYC 7773X",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "AMD EPYC 7573X",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8160",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5120",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon W-2123",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376HL",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210R",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6234",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6234",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4112",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5118",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8160",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220",
+            "Base_Threads": 64
+        },
+        {
+            "NAME": "Intel Xeon Gold 5115",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "AMD Ryzen 7 5800X",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 6421N",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 5416S",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8461V",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8362",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8362",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376H",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon E-2388G",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon W-2102",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon E3-1275 v6",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Silver 4108",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3106",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3106",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "AMD EPYC 7763",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318H",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220R",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Base_Threads": 72
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468V",
+            "Base_Threads": 76
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 76
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Base_Threads": 76
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352V",
+            "Base_Threads": 76
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Base_Threads": 76
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Base_Threads": 76
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Base_Threads": 76
+        },
+        {
+            "NAME": "Intel Xeon Gold 6312U",
+            "Base_Threads": 76
+        },
+        {
+            "NAME": "AMD EPYC 9684X",
+            "Base_Threads": 76
+        },
+        {
+            "NAME": "AMD EPYC 9684X",
+            "Base_Threads": 76
+        },
+        {
+            "NAME": "Intel Xeon Gold 6128",
+            "Base_Threads": 76
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Base_Threads": 76
+        },
+        {
+            "NAME": "Intel Xeon E-2276G",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5411N",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6414U",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6454S",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6426Y",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468V",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5120",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon W-2195",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon W-2133",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140M",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320H",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8168",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260M",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Base_Threads": 80
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Base_Threads": 88
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8471N",
+            "Base_Threads": 88
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8471N",
+            "Base_Threads": 88
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Base_Threads": 88
+        },
+        {
+            "NAME": "AMD EPYC 7542",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Silver 4416+",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 5411N",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6428N",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6454S",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318H",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "AMD EPYC 9754",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 6126",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Silver 4112",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Silver 4112",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Silver 4109T",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "AMD EPYC 7773X",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Base_Threads": 96
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Base_Threads": 104
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Base_Threads": 104
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140",
+            "Base_Threads": 104
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Base_Threads": 104
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3408U",
+            "Base_Threads": 104
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438M",
+            "Base_Threads": 104
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470N",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6426Y",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8462Y+",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8458P",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358P",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338T",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320T",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Max 9480",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "AMD EPYC 9224",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 5120",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon W-2175",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon W-2155",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Silver 4416+",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240R",
+            "Base_Threads": 112
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438N",
+            "Base_Threads": 120
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Base_Threads": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 5416S",
+            "Base_Threads": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 6421N",
+            "Base_Threads": 120
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8452Y",
+            "Base_Threads": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 6346",
+            "Base_Threads": 120
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310T",
+            "Base_Threads": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Base_Threads": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Base_Threads": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Base_Threads": 120
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220R",
+            "Base_Threads": 120
+        },
+        {
+            "NAME": "AMD EPYC 7352",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "AMD EPYC 7702P",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8256",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352S",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon Gold 6334",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "AMD EPYC 8534P",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "AMD EPYC 8534PN",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "AMD EPYC 9684X",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon E-2378G",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon Gold 5118",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon Gold 5118",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Base_Threads": 128
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438M",
+            "Base_Threads": 160
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Base_Threads": 160
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Base_Threads": 192
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Base_Threads": 192
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Base_Threads": 192
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Base_Threads": 192
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376H",
+            "Base_Threads": 192
+        },
+        {
+            "NAME": "Intel Xeon Gold 6458Q",
+            "Base_Threads": 224
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Base_Threads": 224
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438N",
+            "Base_Threads": 240
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352S",
+            "Base_Threads": 240
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Base_Threads": 256
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8354H",
+            "Base_Threads": 256
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318N",
+            "Base_Threads": 480
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Base_Threads": 480
+        }
+    ]
+}

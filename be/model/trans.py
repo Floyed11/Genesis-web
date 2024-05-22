@@ -25,7 +25,7 @@ class Trans(db_conn.DBConn):
             p = pred.Pred()
             score = p.predict(data)
             if score < 0:
-                return 513, "ok", -1
+                return 513, "ok", score
             else:
                 self.db['score'].insert_one({'score': score, 'timestamp': time.time()})
 
@@ -51,3 +51,4 @@ class Trans(db_conn.DBConn):
         except BaseException as e:
             return 530, "{}".format(str(e)), -1
         return 200, "ok", score
+

@@ -8,6 +8,33 @@ const tooltip1 = document.getElementById('user_tooltip');
 const tooltip2 = document.getElementById('plan_tooltip');
 const tooltip3 = document.getElementById('help_tooltip');
 
+function openTrainModelModal() {
+    // 显示一个模态框或输入框以输入训练次数
+    const trainingIterations = prompt("请输入训练次数：");
+
+    if (trainingIterations !== null) {
+        // 调用函数将训练次数上传到后端
+        uploadTrainingIterations(trainingIterations);
+    }
+}
+
+function uploadTrainingIterations(trainingIterations) {
+    fetch('http://localhost:5000/trans/train_new', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+            'iterations': trainingIterations
+        })
+    })
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch((error) => {
+        console.error('Error:', error);
+    });
+}
+
 // button.addEventListener('mouseover',(event) => {
 
 //     const { clientX, clientY } = event;

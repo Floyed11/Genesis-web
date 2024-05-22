@@ -126,3 +126,26 @@ ul {
 .btn:hover .tooltip {
     display: block;
 }
+
+/*添加的图形部分*/
+.image-gallery {
+    display: grid; /* 使用网格布局 */
+    grid-template-columns: repeat(2, 1fr); /* 两列 */
+    /*margin: 10px;*/
+    padding: 20px;
+    column-gap: 5px; /* 只设置列间距 */
+    row-gap: 10px;
+}
+
+.image-gallery img {
+    width: 77%; /* 使图片填充格子 */
+    height: auto;
+}
+.right-box {
+    display: flex;
+    /*justify-content: space-between;*/
+    align-items: center;
+    position: absolute;
+    top: 70px;
+    left: 200px;
+}

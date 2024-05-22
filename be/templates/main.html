@@ -5,13 +5,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // 页面加载完成后，发起AJAX GET请求
+            $.ajax({
+                url: '/',
+                type: 'GET',
+                success: function (data) {
+                    console.log('返回的数据类型:', typeof data);
+                    console.log('返回的数据内容:', data);
+
+                    try {
+                        var parsedData = JSON.parse(data);
+
+                        if (Array.isArray(parsedData)) {
+                            displayHistory(parsedData);
+                        } else {
+                            console.error('返回的数据不是预期的数组类型:', parsedData);
+                        }
+                    } catch (error) {
+                        console.error('解析数据时出错:', error);
+                    }
+                },
+                error: function (err) {
+                    console.error('请求失败:', err);
+                }
+            });
+        })
+    </script>
     <link rel="stylesheet" type="text/css" href="{{url_for('static', filename = 'style.css')}}">
 </head>
 
 <body>
     <div class="container">
         <div class="picture">
-            
+
         </div>
         <div class="choices">
             <div class="nav-project">
@@ -39,16 +68,27 @@
                 <img src="{{ url_for('static', filename="logo/help.svg") }}" alt="求助">
                 <div class="tooltip">help</div>
             </button>
+                <div id="user_tooltip" class="tooltip">user</div>
+                <div id="user_tooltip" class="tooltip">plan</div>
+                <div id="user_tooltip" class="tooltip">hlep</div>
         </div>
     </div>
     <div class="top-box">
         <button class="create_new" onclick="location.href='{{ url_for('trans.trans_in') }}'">
             + New Project
         </button>
+        <button class="train-model-btn" onclick="openTrainModelModal()">训练模型</button>
+
     </div>
-    <div id="user_tooltip" class="tooltip">user</div>
-    <div id="user_tooltip" class="tooltip">plan</div>
-    <div id="user_tooltip" class="tooltip">hlep</div>
+{#    添加图形部分   #}
+    <div class="right-box">
+        <div class="image-gallery">
+            <img src="{{ url_for('static', filename='images/pic5.png') }}" alt="Image 1">
+            <img src="{{ url_for('static', filename='images/pic6.png') }}" alt="Image 2">
+            <img src="{{ url_for('static', filename='images/pic7.png') }}" alt="Image 3">
+            <img src="{{ url_for('static', filename='images/pic8.png') }}" alt="Image 4">
+        </div>
+    </div>
 
     <script src="{{ url_for('static', filename="main_script.js") }}"></script>
 </body>

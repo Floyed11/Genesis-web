@@ -1,6 +1,6 @@
 from be import serve
 from flask import Flask
-from flask import render_template, redirect, url_for
+from flask import render_template, redirect, url_for, send_from_directory
 from be.view import auth
 from be.view import trans
 from be.model.bench import init_database, init_completed_event
@@ -19,8 +19,12 @@ CORS(app)
 app.register_blueprint(auth.bp_auth)
 app.register_blueprint(trans.bp_trans)
 init_completed_event.set()
-app.run()
 
 @app.route('/')
 def index():
     return render_template('main.html')
+
+
+@app.route('/static/<path:filename>')
+def dataset(filename):
+    return send_from_directory(app.static_folder, filename)

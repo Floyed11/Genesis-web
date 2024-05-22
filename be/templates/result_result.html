@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<title>预测结果展示</title>
+<style>
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 1px;
+    }
+    .chart-wrapper {
+        flex: 0.6;
+        min-width: 25vw;
+        margin: 5px;
+    }
+    
+</style>
+<link rel="stylesheet" href="https://raw.githubusercontent.com/yaoximiao/create/main/new_code/input_style.css">
+<!-- 引入 echarts.js -->
+<script src="https://cdn.bootcdn.net/ajax/libs/echarts/5.2.2/echarts.min.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body style = "background-color:#0A192F">
+    <!-- 图表容器 -->
+    <div class="container">
+        <div class = "chart-wrapper">
+            <div id = "blank_1" style = "width:10vx;height:40vh;"></div>
+        </div>
+        <div class = "chart-wrapper">
+            <div id = "userdata" style = "width:60vx;height:40vh;"></div>
+        </div>
+        <div class = "chart-wrapper">
+            <div id = "blank2" style = "width:10vx;height:40vh;"></div>
+        </div>
+        <div class="chart-wrapper">
+            <div id="main" style="width: 30vw;height:40vh;"></div>
+        </div>
+        <div class="chart-wrapper">
+            <div id="Nominal" style="width: 30vw;height:40vh;"></div>
+        </div>
+        <div class="chart-wrapper">
+            <div id="BaseThreads" style="width: 30vw;height:40vh;"></div>
+        </div>
+        <div class="chart-wrapper">
+            <div id="EnableChips" style="width: 30vw;height:40vh;"></div>
+        </div>
+        <div class="chart-wrapper">
+            <div id="EnabldCores" style="width: 30vw;height:40vh;"></div>
+        </div>
+        <div class="chart-wrapper">
+            <div id="ThreadsCores" style="width: 30vw;height:40vh;"></div>
+        </div>
+    </div>
+    <script type = "text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var myChart_User = echarts.init(document.getElementById('userdata'));
+        $.get('https://raw.githubusercontent.com/yaoximiao/create/xzq/userdata.json', function (data) {
+			var names = data.dataset.map(function(item) {
+           return item.NAME;
+       });
+       var seriesOptions = [
+            {
+                name: 'Score',
+                type: 'bar',
+                color:'#89D5FF',
+                data: data.dataset.map(item => item.Base_Results),
+                markLine: {
+                    lineStyle: {
+                        color: '#ffffff'
+                    },
+                    data: [
+                        {yAxis: {{ score }}}
+                    ]
+                    }
+            }
+        ];
+
+    myChart_User.setOption({
+        legend: {
+            textStyle:{
+                color: '#ffffff'
+            },
+            data: seriesOptions.map(option => option.name)
+        },
+        tooltip: {},
+        xAxis: {
+            type: 'category',
+            data: names,
+            axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+            }
+        },
+        yAxis: {
+            type: 'value',
+            axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+            }
+        },
+        series: seriesOptions
+    });
+        },'json')
+    </script>  
+    <script type = "text/javascript">
+        var myChart = echarts.init(document.getElementById('main'));
+        $.get('https://raw.githubusercontent.com/yaoximiao/create/xzq/Max_MHz.json',function(data){
+            var names = data.dataset.map(function(item) {
+           return item.NAME;
+       });
+       var seriesOptions = [
+           {
+               name: 'Max_MHz',
+               type: 'bar',
+               color:'#FE0302',
+               data: data.dataset.map(item => item.Max_MHz),
+               markLine: {
+                lineStyle: {
+                    color: '#ffffff'
+                },
+                data: [
+                    {yAxis: {{ max_mhz }}}
+                ]
+                }
+           }
+       ];
+   
+       myChart.setOption({
+           legend: {
+            textStyle:{
+                color: '#ffffff'
+            },
+               data: seriesOptions.map(option => option.name)
+           },
+           tooltip: {},
+           xAxis: {
+               type: 'category',
+               data: names,
+               axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+               }
+           },
+           yAxis: {
+               type: 'value',
+               axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+               }
+           },
+           series: seriesOptions
+       });
+           },'json')
+    </script>
+    <script type = "text/javascript">
+        var myChart_Nominal = echarts.init(document.getElementById('Nominal'));
+        $.get('https://raw.githubusercontent.com/yaoximiao/create/xzq/Nominal.json',function(data){
+            var names = data.dataset.map(function(item) {
+           return item.NAME;
+       });
+       var seriesOptions = [
+           {
+               name: 'Nominal',
+               type: 'bar',
+               color:'#FF7204',
+               data: data.dataset.map(item => item.Nominal),
+               markLine: {
+                lineStyle: {
+                    color: '#ffffff'
+                },
+                data: [
+                    {yAxis: {{ nominal }}}
+                ]
+                }
+           }
+       ];
+   
+       myChart_Nominal.setOption({
+           legend: {
+            textStyle:{
+                color: '#ffffff'
+            },
+               data: seriesOptions.map(option => option.name)
+           },
+           tooltip: {},
+           xAxis: {
+               type: 'category',
+               data: names,
+               axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+               }
+           },
+           yAxis: {
+               type: 'value',
+               axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+               }
+           },
+           series: seriesOptions
+       });
+           },'json')
+    </script>
+    <script type = "text/javascript">
+        var myChart_BaseThreads = echarts.init(document.getElementById('BaseThreads'));
+        $.get('https://raw.githubusercontent.com/yaoximiao/create/xzq/Base_Threads.json',function(data){
+            var names = data.dataset.map(function(item) {
+           return item.NAME;
+       });
+       var seriesOptions = [
+           {
+               name: 'Base_Threads',
+               type: 'bar',
+               color:'#FFD302',
+               data: data.dataset.map(item => item.Base_Threads),
+               markLine: {
+                lineStyle: {
+                    color: '#ffffff'
+                },
+                data: [
+                    {yAxis: {{ base_threads }}}
+                ]
+                }
+           }
+       ];
+   
+       myChart_BaseThreads.setOption({
+           legend: {
+            textStyle:{
+                color: '#ffffff'
+            },
+               data: seriesOptions.map(option => option.name)
+           },
+           tooltip: {},
+           xAxis: {
+               type: 'category',
+               data: names,
+               axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+               }
+           },
+           yAxis: {
+               type: 'value',
+               axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+               }
+           },
+           series: seriesOptions
+       });
+           },'json')
+    </script>
+    <script type = "text/javascript">
+        var myChart_EnableChips = echarts.init(document.getElementById('EnableChips'));
+        $.get('https://raw.githubusercontent.com/yaoximiao/create/xzq/Enabled_Chips.json',function(data){
+            var names = data.dataset.map(function(item) {
+           return item.NAME;
+       });
+       var seriesOptions = [
+           {
+               name: 'Enabled_Chips',
+               type: 'bar',
+               color:'#00CD00',
+               data: data.dataset.map(item => item.Enabled_Chips),
+               markLine: {
+                lineStyle: {
+                    color: '#ffffff'
+                },
+                data: [
+                    {yAxis: {{ enabled_chips }}}
+                ]
+                }
+           }
+       ];
+   
+       myChart_EnableChips.setOption({
+           legend: {
+            textStyle:{
+                color: '#ffffff'
+            },
+               data: seriesOptions.map(option => option.name)
+           },
+           tooltip: {},
+           xAxis: {
+               type: 'category',
+               data: names,
+               axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+               }
+           },
+           yAxis: {
+               type: 'value',
+               axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+               }
+           },
+           series: seriesOptions
+       });
+           },'json')
+    </script>
+    <script type = "text/javascript">
+        var myChart_EnableCores = echarts.init(document.getElementById('EnabldCores'));
+        $.get('https://raw.githubusercontent.com/yaoximiao/create/xzq/Enabled_Cores.json',function(data){
+            var names = data.dataset.map(function(item) {
+           return item.NAME;
+       });
+       var seriesOptions = [
+           {
+               name: 'Enabled_Cores',
+               type: 'bar',
+               color:'#019899',
+               data: data.dataset.map(item => item.Enabled_Cores),
+               markLine: {
+                lineStyle: {
+                    color: '#ffffff'
+                },
+                data: [
+                    {yAxis: {{ enabled_cores }}}
+                ]
+                }
+           }
+       ];
+   
+       myChart_EnableCores.setOption({
+           legend: {
+            textStyle:{
+                color: '#ffffff'
+            },
+               data: seriesOptions.map(option => option.name)
+           },
+           tooltip: {},
+           xAxis: {
+            textStyle:{
+                color: '#ffffff'
+            },
+               type: 'category',
+               data: names,
+               axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+               }
+           },
+           yAxis: {
+               type: 'value',
+               axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+               }
+           },
+           series: seriesOptions
+       });
+           },'json')
+    </script>
+    <script type = "text/javascript">
+        var myChart_ThreadsCores = echarts.init(document.getElementById('ThreadsCores'));
+        $.get('https://raw.githubusercontent.com/yaoximiao/create/xzq/Threads_Cores.json',function(data){
+            var names = data.dataset.map(function(item) {
+           return item.NAME;
+       });
+       var seriesOptions = [
+           {
+               name: 'Threads_Core',
+               type: 'bar',
+               color:'#4266BE',
+               data: data.dataset.map(item => item.Threads_Core),
+               markLine: {
+                lineStyle: {
+                    color: '#ffffff'
+                },
+                data: [
+                    {yAxis: {{ threads_core }}}
+                ]
+                }
+           }
+       ];
+   
+       myChart_ThreadsCores.setOption({
+           legend: {
+            textStyle:{
+                color: '#ffffff'
+            },
+               data: seriesOptions.map(option => option.name)
+           },
+           tooltip: {},
+           xAxis: {
+               type: 'category',
+               data: names,
+               axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+               }
+           },
+           yAxis: {
+               type: 'value',
+               axisLable:{
+                show:true,
+                textStyle:{
+                    color: '#ffffff'
+                }
+               }
+           },
+           series: seriesOptions
+       });
+           },'json')
+    </script>
+    <script type = "text/javascript">
+        window.addEventListener("resize",function (){
+            myChart.resize();
+            myChart_Nominal.resize();
+            myChart_BaseThreads.resize();
+            myChart_EnableChips.resize();
+            myChart_EnableCores.resize();
+            myChart_ThreadsCores.resize();
+        });
+</body>
+</html>

@@ -1,0 +1,4004 @@
+{    
+    "dataset":[
+        {
+            "NAME": "Intel Xeon Gold 6244",
+            "Max_MHz": 1700
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400T",
+            "Max_MHz": 1700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Max_MHz": 1700
+        },
+        {
+            "NAME": "Intel Core i3-8100T",
+            "Max_MHz": 1700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Max_MHz": 1900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6246",
+            "Max_MHz": 1900
+        },
+        {
+            "NAME": "Intel Xeon Gold 5411N",
+            "Max_MHz": 1900
+        },
+        {
+            "NAME": "AMD EPYC 7662",
+            "Max_MHz": 1900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Max_MHz": 1900
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Max_MHz": 2100
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500T",
+            "Max_MHz": 2800
+        },
+        {
+            "NAME": "Intel Core i5-9600K",
+            "Max_MHz": 2800
+        },
+        {
+            "NAME": "Intel Core i5-8600T",
+            "Max_MHz": 2800
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418N",
+            "Max_MHz": 2800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Max_MHz": 2800
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Max_MHz": 2800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Max_MHz": 2800
+        },
+        {
+            "NAME": "AMD EPYC 7513",
+            "Max_MHz": 2900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240R",
+            "Max_MHz": 2900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Max_MHz": 2900
+        },
+        {
+            "NAME": "Intel Pentium Gold G5600",
+            "Max_MHz": 2900
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Core i3-8350K",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Core i3-8300",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Core i3-8100T",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500T",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Celeron G4920",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Celeron G4900",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Celeron G4900T",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Celeron G4920",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6244",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Core i3-8300",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Xeon W-2123",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5416S",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Max_MHz": 3000
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276M",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8461V",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468H",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352S",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "AMD EPYC 7313P",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "AMD EPYC 7502",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "AMD EPYC 7F72",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "AMD EPYC 7302",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "AMD EPYC 7252",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "AMD EPYC 7352",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Gold 5118",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8354H",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8253",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380HL",
+            "Max_MHz": 3100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD Ryzen 7 5800X",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8471N",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6454S",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460Y+",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352Y",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358P",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7513",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7302",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7413",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7373X",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7702",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon E-2388G",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380HL",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7F72",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7F52",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7F52",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7282",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon E-2278G",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon W-2295",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Silver 4109T",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6210U",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210R",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8160",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 9654",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 9754",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "AMD EPYC 7413",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6442Y",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon E-2224",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240R",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Max_MHz": 3200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6428N",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338T",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6314U",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "AMD EPYC 8534P",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "AMD EPYC 8534PN",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "AMD EPYC 9684X",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "AMD EPYC 7543",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "AMD EPYC 9354P",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "AMD EPYC 7313",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114T",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "Intel Xeon Gold 5122",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8268",
+            "Max_MHz": 3300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6334",
+            "Max_MHz": 3350
+        },
+        {
+            "NAME": "AMD EPYC 9454P",
+            "Max_MHz": 3350
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3350
+        },
+        {
+            "NAME": "AMD EPYC 7473X",
+            "Max_MHz": 3350
+        },
+        {
+            "NAME": "AMD EPYC 7773X",
+            "Max_MHz": 3350
+        },
+        {
+            "NAME": "AMD EPYC 7573X",
+            "Max_MHz": 3350
+        },
+        {
+            "NAME": "Intel Xeon E-2378G",
+            "Max_MHz": 3350
+        },
+        {
+            "NAME": "AMD EPYC 7352",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6150",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418N",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6414U",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6414U",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470N",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438N",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6426Y",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410T",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4416+",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5420+",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6442Y",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8461V",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468V",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468V",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6442Y",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460Y+",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5415+",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5415+",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6430",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6328H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352V",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352S",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8362",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6328HL",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6346",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8354H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6314U",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6314U",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338T",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320H",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "AMD EPYC 7473X",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "AMD EPYC 7773X",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5120",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5118",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8160",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5118",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114T",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4112",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6256",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6256",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6256",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6246",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380HL",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6128",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8168",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260M",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Silver 4110",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Max_MHz": 3400
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Max_MHz": 3450
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8462Y+",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5415+",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6442Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438M",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470N",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438N",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438N",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6421N",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5416S",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5416S",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6421N",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410T",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8452Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8452Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5420+",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468V",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8452Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8461V",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6430",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8362",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8362",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360H",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358P",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358P",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318S",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8351N",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8351N",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8351N",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320T",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352S",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318N",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6346",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6346",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310T",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon W-2104",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4108",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318H",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6254",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6234",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6246",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "AMD EPYC 7H12",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4112",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4108",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5118",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8160",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460Y+",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220R",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220R",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4215",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Max_MHz": 3500
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6238T",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 5217",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8153",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6134",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8462Y+",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448Y",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448Y",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8458P",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460Y+",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8458P",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6328H",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352V",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352V",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6312U",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6312U",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6312U",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310T",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352Y",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376H",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Silver 4215R",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "AMD EPYC 7262",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500T",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8353H",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 5222",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214R",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6250",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6234",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6254",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6154",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Silver 4110",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6150",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8268",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Silver 4215",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6254",
+            "Max_MHz": 3600
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Max_MHz": 3650
+        },
+        {
+            "NAME": "Intel Xeon Gold 6334",
+            "Max_MHz": 3650
+        },
+        {
+            "NAME": "Intel Xeon Gold 5315Y",
+            "Max_MHz": 3675
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418N",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418N",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6454S",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318S",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318S",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320T",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318N",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352Y",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6334",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6312U",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "AMD EPYC 9684X",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "AMD EPYC 9684X",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "AMD EPYC 7713P",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "AMD EPYC 7313P",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380H",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "AMD EPYC 7642",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "AMD EPYC 7F52",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "AMD EPYC 7452",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon E-2226G",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Celeron G4900",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Celeron G4900T",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Pentium Gold G5600",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Pentium Gold G5600",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Core i3-8350K",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Core i3-8300T",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Core i9-9900K",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Core i3-8300",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6126",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4112",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4108",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6132",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "AMD EPYC 9654",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "AMD EPYC 7763",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438N",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410T",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "UltraSPARC-IV+",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376H",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320H",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8362",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Max_MHz": 3700
+        },
+        {
+            "NAME": "AMD EPYC 7542",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218B",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 5215",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Silver 4416+",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6448H",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 5411N",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 5411N",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6414U",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6428N",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8471N",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6454S",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3408U",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8471N",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438M",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438M",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6426Y",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376H",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318N",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon E-2378G",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242R",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "AMD EPYC 7F32",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Pentium Gold G5500",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6244",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Core i7-9700K",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Core i3-8100",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 5120",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon E3-1275 v6",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Silver 4108",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6458Q",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240R",
+            "Max_MHz": 3800
+        },
+        {
+            "NAME": "Intel Xeon E-2276G",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260M",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4210",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3204",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8253",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6244",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6144",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6428N",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6430",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon E-2388G",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "AMD EPYC 9174F",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "AMD EPYC 7413",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6418H",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "AMD EPYC 9254",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon E-2356G",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "AMD Ryzen Threadripper PRO 3945WX",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "AMD Ryzen Threadripper PRO 3975WX",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220R",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "AMD EPYC 7F52",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "AMD EPYC 7402",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "AMD EPYC 7F72",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Celeron G4900T",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon W-2133",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4109T",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140M",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "AMD EPYC 7773X",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "AMD EPYC 7763",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348H",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6326",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 5317",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 5215",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Silver 4216",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Max_MHz": 3900
+        },
+        {
+            "NAME": "AMD EPYC 7402",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "AMD EPYC 7502",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon E-2274G",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "AMD EPYC 7302P",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "AMD EPYC 7402P",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6252",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240M",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "AMD EPYC 7742",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6132",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6146",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6126",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130T",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6136",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6128",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "AMD Ryzen 9 7950X",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6438Y+",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8470N",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8458P",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380H",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330H",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338T",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8352S",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310T",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "AMD Ryzen 9 7950X",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6444Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6426Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon E-2378G",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242R",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "AMD EPYC 7F32",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "AMD EPYC 7F32",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218R",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5220R",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "AMD EPYC 7282",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5120",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3104",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon W-2155",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3104",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3106",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3106",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8153",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6132",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Silver 4416+",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330H",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6354",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6226R",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6330N",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6336Y",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5117",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248R",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6142",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240R",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Gold 5218",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon Silver 4214",
+            "Max_MHz": 4000
+        },
+        {
+            "NAME": "Intel Xeon E-2278G",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon E-2286G",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "AMD EPYC 7502P",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "AMD EPYC 7702P",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "AMD EPYC 7702",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8256",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8280L",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Silver 4116",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 5120",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6138",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6154",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6148",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6150",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6426Y",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Silver 4410T",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8454H",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 5416S",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 5418Y",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 5420+",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3408U",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3408U",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318Y",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "AMD EPYC 9754",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8490H",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Silver 4309Y",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380H",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376HL",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6252",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Silver 4208",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240",
+            "Max_MHz": 4100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338N",
+            "Max_MHz": 4150
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360HL",
+            "Max_MHz": 4150
+        },
+        {
+            "NAME": "Intel Xeon Silver 4215",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Gold 5115",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6421N",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8444H",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Silver 4416+",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8468",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6348",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Gold 5318H",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8276L",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8480+",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "AMD EPYC 9754",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Bronze 3204",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon E-2174G",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Silver 4112",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon W-2195",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Silver 4109T",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6126",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8180",
+            "Max_MHz": 4200
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6434H",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8462Y+",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6416H",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8450H",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8460H",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8358P",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6338",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Silver 4310",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Silver 4314",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Max 9480",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "AMD EPYC 9224",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "AMD Ryzen Threadripper PRO 3955WX",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "AMD EPYC 7282",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "AMD EPYC 7452",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Celeron G4900",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6138T",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon W-2102",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Silver 4114",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon W-2175",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130",
+            "Max_MHz": 4300
+        },
+        {
+            "NAME": "Intel Xeon Gold 6346",
+            "Max_MHz": 4400
+        },
+        {
+            "NAME": "AMD EPYC 7F72",
+            "Max_MHz": 4400
+        },
+        {
+            "NAME": "AMD EPYC 7F32",
+            "Max_MHz": 4400
+        },
+        {
+            "NAME": "AMD EPYC 7282",
+            "Max_MHz": 4400
+        },
+        {
+            "NAME": "Intel Xeon Gold 6248",
+            "Max_MHz": 4400
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8360Y",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "AMD EPYC 7453",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "AMD Ryzen Threadripper PRO 3995WX",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "AMD EPYC 7H12",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6240L",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "AMD EPYC 7H12",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "AMD EPYC 7H12",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "AMD EPYC 7452",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon E-2286G",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon E-2288G",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6242",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon E-2126G",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon E-2124G",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Core i3-8300T",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8256",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8153",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6140M",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8176",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "Intel Xeon Gold 6254",
+            "Max_MHz": 4500
+        },
+        {
+            "NAME": "AMD EPYC 7313P",
+            "Max_MHz": 4600
+        },
+        {
+            "NAME": "AMD EPYC 7262",
+            "Max_MHz": 4600
+        },
+        {
+            "NAME": "Intel Xeon Gold 6130",
+            "Max_MHz": 4600
+        },
+        {
+            "NAME": "AMD EPYC 7373X",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "AMD EPYC 7543",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8380",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8368Q",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Celeron G4920",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Core i3-8300T",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Core i3-8100T",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Core i3-8300",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Xeon E-2144G",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Xeon E-2124",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Xeon E-2146G",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Xeon E-2134",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Xeon E-2186G",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Xeon E-2136",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Xeon E-2176G",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Core i3-8350K",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Xeon E-2104G",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Pentium Gold G5400T",
+            "Max_MHz": 4700
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376HL",
+            "Max_MHz": 4900
+        },
+        {
+            "NAME": "AMD EPYC 7702",
+            "Max_MHz": 4900
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376HL",
+            "Max_MHz": 5000
+        },
+        {
+            "NAME": "Intel Xeon E-2378G",
+            "Max_MHz": 5000
+        },
+        {
+            "NAME": "AMD EPYC 7473X",
+            "Max_MHz": 5000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8376H",
+            "Max_MHz": 5000
+        },
+        {
+            "NAME": "AMD EPYC 7313",
+            "Max_MHz": 5000
+        },
+        {
+            "NAME": "AMD EPYC 7313P",
+            "Max_MHz": 5000
+        },
+        {
+            "NAME": "Intel Xeon E-2226G",
+            "Max_MHz": 5000
+        },
+        {
+            "NAME": "Intel Xeon Platinum 8260",
+            "Max_MHz": 5100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Max_MHz": 5100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6230R",
+            "Max_MHz": 5100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Max_MHz": 5100
+        },
+        {
+            "NAME": "Intel Xeon Gold 6342",
+            "Max_MHz": 5100
+        },
+        {
+            "NAME": "Intel Xeon Silver 4316",
+            "Max_MHz": 5100
+        },
+        {
+            "NAME": "Intel Xeon Gold 5320T",
+            "Max_MHz": 5700
+        }
+    ]
+}

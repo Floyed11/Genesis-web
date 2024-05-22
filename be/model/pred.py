@@ -10,6 +10,13 @@ import os
 class Pred(db_conn.DBConn):
     def __init__(self):
         IN_FEATURES = 1740
+        try:
+            with open('model/columns.pkl', 'rb') as f:
+                print('load columns success')
+                load_columns = pickle.load(f)
+        except Exception as e:
+            print(e)
+        IN_FEATURES = len(load_columns) + 6
         self.model = nn.Sequential(
             nn.Linear(IN_FEATURES, 64),  # 输入层
             nn.ReLU(),  # 激活函数
@@ -18,6 +25,7 @@ class Pred(db_conn.DBConn):
         try:
             self.path = 'model/model_parameters.pth'
             self.model.load_state_dict(torch.load(self.path))
+            print('load model success')
         except Exception as e:
             print(e)
         db_conn.DBConn.__init__(self)
@@ -63,7 +71,7 @@ class Pred(db_conn.DBConn):
 
 
         data_X = pd.DataFrame(data, index=[0])
-        print('data_X is:\n', data_X)
+        #print('data_X is:\n', data_X)
         data_X = self.clean_trans(data_X)
         data_X = data_X.apply(pd.to_numeric, errors='coerce')
         data_X = data_X.fillna(0)
@@ -71,7 +79,8 @@ class Pred(db_conn.DBConn):
         X = (X - X.mean()) / X.std()
         result_y = self.model(X)
         result_y = result_y.item()
-        print('result_y is:\n', result_y)
+        #print('result_y is:\n', result_y)
+        result_y = round(result_y, 2)
         return result_y
 
 
@@ -249,7 +258,7 @@ class Pred(db_conn.DBConn):
         data = data.assign(Storage_num = trans_storage)
         del data["Storage"]
 
-        print('after clean \n', data)
+        # print('after clean \n', data)
         # trans
         columns = data.columns
 
@@ -275,7 +284,10 @@ class Pred(db_conn.DBConn):
         try:
             with open('model/columns.pkl', 'rb') as f:
                 load_columns = pickle.load(f)
-            print('load_columns\n', load_columns)
+            # print('load_columns\n', load_columns.duplicated())
+            # for i in load_columns.duplicated():
+            #     if i:
+            #         print('duplicated')
         except Exception as e:
             print(e)
             return -3
@@ -291,9 +303,16 @@ class Pred(db_conn.DBConn):
                     X_bool_table = pd.concat([X_bool_table, pd.get_dummies(X[column])], axis=1)
                 except Exception as e:
                     print(e)
-
-        X_bool_table = X_bool_table.astype(int)
-        X_bool_table = X_bool_table.reindex(columns=load_columns, fill_value=0)
+        #print('X_bool_table\n', X_bool_table)
+        try:
+            X_bool_table = X_bool_table.astype(int)
+            #print('X_bool_table\n', X_bool_table)
+            X_bool_table = X_bool_table.loc[:,~X_bool_table.columns.duplicated()]
+            #print('X_bool_table\n', X_bool_table)
+            X_bool_table = X_bool_table.reindex(columns=load_columns, fill_value=0)
+        except Exception as e:
+            print(e)
+            return -4
         X_after = pd.concat([X_bool_table, X_num_table], axis=1)
         # print('X_after\n', X_after)
 

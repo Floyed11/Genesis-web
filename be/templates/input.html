@@ -13,142 +13,139 @@
 
 <div class="container">
   <label for="projectName" class="input-label">项目名称：</label>
-  <input type="text" id="projectName" class="input-field">
+  <input type="text" id="projectName" class="input-field" value="default_project">
   
   <label for="projectObjective" class="input-label">项目目标：</label>
-  <input type="text" id="projectObjective" class="input-field">
-  
+  <input type="text" id="projectObjective" class="input-field" value="200">
 
   <label for="Test-Sponsor" class="input-label">Test Sponsor：</label>
-  <input type="text" id="Test-Sponsor" class="input-field" list="Test-Sponsor-list">
+  <input type="text" id="Test-Sponsor" class="input-field" list="Test-Sponsor-list" value="Huawei">
   <datalist id="Test-Sponsor-list">
   </datalist>
 
   <label for="Cpu-Name" class="input-label">Cpu Name：</label>
-  <input type="text" id="Cpu-Name" class="input-field" list="Cpu-Name-list">
+  <input type="text" id="Cpu-Name" class="input-field" list="Cpu-Name-list" value="Intel Xeon Platinum 8276M">
   <datalist id="Cpu-Name-list">
-</datalist>
-
+  </datalist>
 
   <label for="Max-MHz" class="input-label">Max MHz：</label>
-  <input type="text" id="Max-MHz" class="input-field" list="Max-MHz-list">
+  <input type="text" id="Max-MHz" class="input-field" list="Max-MHz-list" value="4000">
   <datalist id="Max-MHz-list">
   </datalist>
 
-
   <label for="Nominal" class="input-label">Nominal：</label>
-  <input type="text" id="Nominal" class="input-field" list="Nominal-list">
+  <input type="text" id="Nominal" class="input-field" list="Nominal-list" value="2200">
   <datalist id="Nominal-list">
   </datalist>
 
   <label for="Oderable" class="input-label">Oderable：</label>
-  <input type="text" id="Oderable" class="input-field" list="Oderable-list">
+  <input type="text" id="Oderable" class="input-field" list="Oderable-list" value="1,2 chips">
   <datalist id="Oderable-list">     
   </datalist>
 
   <label for="Cache-L1" class="input-label">Cache L1：</label>
-  <input type="text" id="Cache-L1" class="input-field" list="Cache-L1-list">
+  <input type="text" id="Cache-L1" class="input-field" list="Cache-L1-list" value="32 KB I + 32 KB D on chip per core">
   <datalist id="Cache-L1-list">
   </datalist>
 
   <label for="Cache-L2" class="input-label">Cache L2：</label>
-  <input type="text" id="Cache-L2" class="input-field" list="Cache-L2-list">
+  <input type="text" id="Cache-L2" class="input-field" list="Cache-L2-list" value="1 MB I+D on chip per core">
   <datalist id="Cache-L2-list">           
   </datalist>
 
   <label for="Cache-L3" class="input-label">Cache L3：</label>
-  <input type="text" id="Cache-L3" class="input-field" list="Cache-L3-list">
+  <input type="text" id="Cache-L3" class="input-field" list="Cache-L3-list" value="38.5 MB I+D on chip per chip">
   <datalist id="Cache-L3-list">        
   </datalist>
 
   <label for="Cache-Other" class="input-label">Cache Other：</label>
-  <input type="text" id="Cache-Other" class="input-field" list="Cache-Other-list">
+  <input type="text" id="Cache-Other" class="input-field" list="Cache-Other-list" value="None">
   <datalist id="Cache-Other-list">
   </datalist>
 
   <label for="Memory" class="input-label">Memory：</label>
-  <input type="text" id="Memory" class="input-field" list="Memory-list">
+  <input type="text" id="Memory" class="input-field" list="Memory-list" value="384 GB (24 x 16 GB 2Rx8 PC4-2933Y-R)">
   <datalist id="Memory-list">
   </datalist>
 
   <label for="Storage" class="input-label">Storage：</label>
-  <input type="text" id="Storage" class="input-field" list="Storage-list">
+  <input type="text" id="Storage" class="input-field" list="Storage-list" value="1 x 1200 GB SAS, 10000 RPM">
   <datalist id="Storage-list">
   </datalist>
 
   <label for="Hardware-Other" class="input-label">Hardware Other：</label>
-  <input type="text" id="Hardware-Other" class="input-field" list="Hardware-Other-list">
+  <input type="text" id="Hardware-Other" class="input-field" list="Hardware-Other-list" value="None">
   <datalist id="Hardware-Other-list">
   </datalist>
 
   <label for="OS" class="input-label">OS：</label>
-  <input type="text" id="OS" class="input-field" list="OS-list">
+  <input type="text" id="OS" class="input-field" list="OS-list" value="SUSE Linux Enterprise Server 12 SP4 (x86_64);4.12.14-94.41-default">
   <datalist id="OS-list">
   </datalist>
 
   <label for="Compiler" class="input-label">Compiler：</label>
-  <input type="text" id="Compiler" class="input-field" list="Compiler-list">
+  <input type="text" id="Compiler" class="input-field" list="Compiler-list" value="C/C++: Version 19.0.1.144 of Intel C/C++;Compiler Build 20181018 for Linux;;Fortran: Version 19.0.1.144 of Intel Fortran;Compiler Build 20181018 for Linux">
   <datalist id="Compiler-list">
   </datalist>
 
   <label for="Firmware" class="input-label">Firmware：</label>
-  <input type="text" id="Firmware" class="input-field" list="Firmware-list">
+  <input type="text" id="Firmware" class="input-field" list="Firmware-list" value="Version 6.52 Released Mar-2019">
   <datalist id="Firmware-list"> 
   </datalist>
 
   <label for="File-System" class="input-label">File System：</label>
-  <input type="text" id="File-System" class="input-field" list="File-System-list">
+  <input type="text" id="File-System" class="input-field" list="File-System-list" value="xfs">
   <datalist id="File-System-list">
   </datalist>
 
   <label for="System-State" class="input-label">System State：</label>
-  <input type="text" id="System-State" class="input-field" list="System-State-list">
+  <input type="text" id="System-State" class="input-field" list="System-State-list" value="Run level 3 (multi-user)">
   <datalist id="System-State-list">
   </datalist>
 
   <label for="Base-Pointers" class="input-label">Base Pointers：</label>
-  <input type="text" id="Base-Pointers" class="input-field" list="Base-Pointers-list">
+  <input type="text" id="Base-Pointers" class="input-field" list="Base-Pointers-list" value="64-bit">
   <datalist id="Base-Pointers-list">
   </datalist>
 
   <label for="Peak-Pointers" class="input-label">Peak Pointers：</label>
-  <input type="text" id="Peak-Pointers" class="input-field" list="Peak-Pointers-list">
+  <input type="text" id="Peak-Pointers" class="input-field" list="Peak-Pointers-list" value="64-bit">
   <datalist id="Peak-Pointers-list"> 
   </datalist>
 
   <label for="Software-Other" class="input-label">Software Other：</label>
-  <input type="text" id="Software-Other" class="input-field" list="Software-Other-list">
+  <input type="text" id="Software-Other" class="input-field" list="Software-Other-list" value="None">
   <datalist id="Software-Other-list">
   </datalist>
 
   <label for="Power-Management" class="input-label">Power Management：</label>
-  <input type="text" id="Power-Management" class="input-field" list="Power-Management-list">
+  <input type="text" id="Power-Management" class="input-field" list="Power-Management-list" value="">
   <datalist id="Power-Management-list">
   </datalist>
 
   <label for="Paralled" class="input-label">Paralled：</label>
-  <input type="text" id="Paralled" class="input-field" list="Paralled-list">
+  <input type="text" id="Paralled" class="input-field" list="Paralled-list" value="Yes">
   <datalist id="Paralled-list">
   </datalist>
 
   <label for="Base-Threads" class="input-label">Base Threads：</label>
-  <input type="text" id="Base-Threads" class="input-field" list="Base-Threads-list">
+  <input type="text" id="Base-Threads" class="input-field" list="Base-Threads-list" value="56">
   <datalist id="Base-Threads-list"> 
   </datalist>
 
   <label for="Enabled-Cores" class="input-label">Enabled Cores：</label>
-  <input type="text" id="Enabled-Cores" class="input-field" list="Enabled-Cores-list">
+  <input type="text" id="Enabled-Cores" class="input-field" list="Enabled-Cores-list" value="56">
   <datalist id="Enabled-Cores-list">
   </datalist>
 
 
   <label for="Enabled-Chips" class="input-label">Enabled Chips：</label>
-  <input type="text" id="Enabled-Chips" class="input-field" list="Enabled-Chips-list">
+  <input type="text" id="Enabled-Chips" class="input-field" list="Enabled-Chips-list" value="2">
   <datalist id="Enabled-Chips-list">
   </datalist>
 
   <label for="Threads-Core" class="input-label">Threads/Core：</label>
-  <input type="text" id="Threads-Core" class="input-field" list="Threads-Core-list">
+  <input type="text" id="Threads-Core" class="input-field" list="Threads-Core-list" value="1">
   <datalist id="Threads-Core-list">     
   </datalist>
   
